@@ -1,0 +1,2 @@
+hostB (id: 1)
+hostA (id: 0)
