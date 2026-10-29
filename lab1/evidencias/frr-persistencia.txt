@@ -1,0 +1,8 @@
+dummy0           UNKNOWN        10.10.10.1/24 fe80::41f:cfff:fe1f:aa64/64 
+Routing entry for 198.51.100.0/24
+  Known via "static", distance 1, metric 0, best
+  Last update 00:04:51 ago
+  Flags: Recursion Selected RR Distance 
+  Status: Installed 
+  * unreachable (blackhole), weight 1
+
